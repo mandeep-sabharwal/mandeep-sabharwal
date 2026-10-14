@@ -1,63 +1,70 @@
  <div align="center">
 
-# Hi, I'm Mandeep
+# Hey, I'm Mandeep Singh
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Android+Developer+%7C+Kotlin;Exploring+Full-Stack+Development;Building+Projects+and+Learning" alt="Animated typing introduction" />
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Android+Developer+%7C+Kotlin;Exploring+Full-Stack+Development;Learning+by+Building" alt="Animated introduction" />
 </a>
 
-**Computer Science Student | Developer | Open-Source Enthusiast**
+[GitHub](https://github.com/mandeep-sabharwal)
 
-[GitHub](https://github.com/mandeep-sabharwal) · Building projects, learning new technologies, and improving one commit at a time.
-
-</div>
-
----
-
-### About Me
-
-- Currently developing my programming and software engineering skills.
-- Interested in Android development, full-stack web development, and AI/ML.
-- Enjoy building practical projects and exploring open-source software.
-- Currently learning more about React and the MERN stack.
-
-### Technologies
-
-**Working with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,kotlin,js,androidstudio,firebase,git,github&theme=dark" alt="C++, Kotlin, JavaScript, Android Studio, Firebase, Git and GitHub" />
-</p>
-
-**Currently exploring**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" alt="React, Node.js, Express, MongoDB, HTML and CSS" />
-</p>
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/mandeep-sabharwal/LoreLocator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=LoreLocator&theme=github_dark&hide_border=true" alt="LoreLocator project card" />
-  </a>
-  <a href="https://github.com/mandeep-sabharwal/Notes-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=Notes-&theme=github_dark&hide_border=true" alt="Notes project card" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-*Always learning. Always building.*
+*Building things, breaking things, and learning how they work.*
 
 </div>
 
 ---
 
+## About Me
+
+- Computer Science student interested in software engineering.
+- Building Android applications with Kotlin and Jetpack Compose.
+- Exploring JavaScript, React, and full-stack web development.
+- Interested in open source, AI/ML, and practical software projects.
+- Always looking for opportunities to learn, collaborate, and build better software.
+
+## Tech Stack
+
+**Languages & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,kotlin,java,js,html,css&theme=dark" alt="C++, Kotlin, Java, JavaScript, HTML and CSS" />
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,jetpackcompose,react,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="Android Studio, Jetpack Compose, React, Node.js, Express, MongoDB, Firebase, Git, GitHub and VS Code" />
+</p>
+
+## Featured Projects
+
 <div align="center">
 
-*Always learning. Always building.*
+<a href="https://github.com/mandeep-sabharwal/Diary">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=Diary&theme=github_dark&hide_border=true" alt="Diary repository" />
+</a>
+<a href="https://github.com/mandeep-sabharwal/Force-Sight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=Force-Sight&theme=github_dark&hide_border=true" alt="Force Sight repository" />
+</a>
+
+</div>
+
+## Language Diversity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep-sabharwal&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8" alt="Programming language distribution" />
+
+</div>
+
+*Language distribution reflects code in public repositories, not overall proficiency.*
+
+---
+
+<div align="center">
+
+### Keep building. Keep exploring.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Animated-style blue footer banner" />
 
 </div>
