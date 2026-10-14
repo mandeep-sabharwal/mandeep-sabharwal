@@ -35,11 +35,23 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" alt="React, Node.js, Express, MongoDB, HTML and CSS" />
 </p>
 
-### GitHub Statistics
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mandeep-sabharwal/LoreLocator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=LoreLocator&theme=github_dark&hide_border=true" alt="LoreLocator project card" />
+  </a>
+  <a href="https://github.com/mandeep-sabharwal/Notes-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=Notes-&theme=github_dark&hide_border=true" alt="Notes project card" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mandeep-sabharwal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep-sabharwal&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+
+*Always learning. Always building.*
+
 </div>
 
 ---
