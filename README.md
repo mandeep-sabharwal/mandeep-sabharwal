@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Android+Developer+%7C+Kotlin;Exploring+Full-Stack+Development;Learning+by+Building" alt="Animated introduction" />
 
-[GitHub Profile](https://github.com/mandeep-sabharwal)
-
 *Building things, breaking things, and learning how they work.*
 
 </div>
