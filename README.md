@@ -53,8 +53,6 @@
 
 </div>
 
-*Language distribution reflects code in public repositories, not overall proficiency.*
-
 ---
 
 <div align="center">
