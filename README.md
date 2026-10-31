@@ -7,8 +7,6 @@
 *Building things, breaking things, and learning how they work.*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mandeep-sabharwal&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mandeep-sabharwal?label=Followers&style=flat-square&color=1F6FEB&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-2EA043?style=flat-square" alt="Open to collaboration" />
 </p>
 
