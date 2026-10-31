@@ -2,23 +2,42 @@
 
 # Hey, I'm Mandeep Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Android+Developer+%7C+Kotlin;Exploring+Full-Stack+Development;Learning+by+Building" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Android+Developer+%7C+Kotlin+%26+Jetpack+Compose;Exploring+Full-Stack+Development;Learning+by+Building" alt="Animated introduction" />
 
 *Building things, breaking things, and learning how they work.*
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mandeep-sabharwal&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mandeep-sabharwal?label=Followers&style=flat-square&color=1F6FEB&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2EA043?style=flat-square" alt="Open to collaboration" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mandeep-singh-sabharwal-905a20373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mandeeppsabharwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Computer Science student interested in software engineering.
-- Building Android applications with Kotlin and Jetpack Compose.
-- Exploring JavaScript, React, and full-stack web development.
-- Interested in open source, AI/ML, and practical software projects.
-- Always looking to learn, collaborate, and build better software.
+- 🎓 Computer Science student interested in software engineering
+- 📱 Building Android apps with **Kotlin** and **Jetpack Compose**
+- 🌐 Exploring **JavaScript, React, and full-stack web development**
+- 🤖 Curious about **open source, AI/ML, and practical software projects**
+- 🤝 Always looking to learn, collaborate, and build better software
 
-## Tech Stack
+## 🎯 Currently
+
+| | |
+|---|---|
+| 🔨 **Building** | Android apps with Kotlin & Jetpack Compose |
+| 📚 **Learning** | React, Node.js, and full-stack architecture |
+| 🌱 **Exploring** | Open source contributions and AI/ML basics |
+| 💬 **Ask me about** | Android development, Kotlin, C++ |
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -32,32 +51,17 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="Android Studio, React, Node.js, Express, MongoDB, Firebase, Git, GitHub and VS Code" />
 </p>
 
-## Featured Projects
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/mandeep-sabharwal/MyDiary">📓 MyDiary</a></h3> <p>An app that digitizes diary writing with a clean, beautiful UI.</p> <p><b>Stack:</b> Kotlin · Jetpack Compose</p> <p><a href="https://github.com/mandeep-sabharwal/MyDiary">View repository →</a></p> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/Shriaman2005/ForceSight">👁️ ForceSight</a></h3> <p>Uses computer vision to calculate forces and break force vectors into their components, like those of the weight (mg).</p> <p><b>Stack:</b> Computer Vision · JavaScript HTML CSS</p> <p><a href="https://github.com/Shriaman2005/ForceSight">View repository →</a></p> </td> </tr> </table>
+## 🤝 Let's Connect
 
-<div align="center">
-
-<a href="https://github.com/mandeep-sabharwal/MyDiary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandeep-sabharwal&repo=MyDiary&theme=github_dark&hide_border=true" alt="MyDiary project card" />
-</a>
-<a href="https://github.com/Shriaman2005/ForceSight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shriaman2005&repo=ForceSight&theme=github_dark&hide_border=true" alt="ForceSight project card" />
-</a>
-
-</div>
-
-## Language Diversity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep-sabharwal&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8" alt="Programming language distribution" />
-
-</div>
+I'm open to collaborating on Android, web, and open-source projects. If you have an idea, a bug report, or just want to talk code, feel free to open an issue or reach out through the links above.
 
 ---
 
 <div align="center">
 
-### Keep building. Keep exploring.
+### Keep building. Keep exploring. 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Blue footer banner" />
 
