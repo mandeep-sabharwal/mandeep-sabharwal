@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Mandeep Singh
 
@@ -13,6 +13,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mandeep-singh-sabharwal-905a20373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mandeeppsabharwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -49,18 +50,26 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="Android Studio, React, Node.js, Express, MongoDB, Firebase, Git, GitHub and VS Code" />
 </p>
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3><a href=["https://github.com/mandeep-sabharwal/MyDiary](https://github.com/mandeep-sabharwal/MyDiary.V2)">📓 MyDiary</a></h3> <p>Private, encrypted Flutter diary app with mood tracking, streaks and Mochi the cat.</p> <p><b>Stack:</b> Kotlin · Jetpack Compose</p> <p><a href="https://github.com/mandeep-sabharwal/MyDiary">View repository →</a></p> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/Shriaman2005/ForceSight">👁️ ForceSight</a></h3> <p>Uses computer vision to calculate forces and break force vectors into their components, like those of the weight (mg).</p> <p><b>Stack:</b> Computer Vision · JavaScript HTML CSS</p> <p><a href="https://github.com/Shriaman2005/ForceSight">View repository →</a></p> </td> </tr> </table>
-## 🤝 Let's Connect
+## 🚀 Featured Projects
 
-I'm open to collaborating on Android, web, and open-source projects. If you have an idea, a bug report, or just want to talk code, feel free to open an issue or reach out through the links above.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3><a href="https://github.com/mandeep-sabharwal/MyDiary.V2">📓 MyDiary V2</a></h3>
 
-<div align="center">
+<p>A completely rewritten version of MyDiary, rebuilt with a new tech stack and a fresh approach to Android development.</p>
 
-### Keep building. Keep exploring. 🚀
+<p><b>Stack:</b> Kotlin · Jetpack Compose</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Blue footer banner" />
+<p>
+  <a href="https://github.com/mandeep-sabharwal/MyDiary.V2">View Repository →</a>
+</p>
+<p>
+  <a href="https://github.com/mandeep-sabharwal/MyDiary.V2/releases/latest">⬇️ Download Latest APK</a>
+</p>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github
