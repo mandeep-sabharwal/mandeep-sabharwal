@@ -50,11 +50,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="Android Studio, React, Node.js, Express, MongoDB, Firebase, Git, GitHub and VS Code" />
 </p>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Project
 
 <h3><a href="https://github.com/mandeep-sabharwal/MyDiary.V2">📓 MyDiary V2</a></h3>
 
@@ -68,8 +64,5 @@
 <p>
   <a href="https://github.com/mandeep-sabharwal/MyDiary.V2/releases/latest">⬇️ Download Latest APK</a>
 </p>
-
-</td>
-<td width="50%" valign="top">
 
 <h3><a href="https://github
