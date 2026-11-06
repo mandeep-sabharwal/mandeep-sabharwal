@@ -65,4 +65,14 @@
   <a href="https://github.com/mandeep-sabharwal/MyDiary.V2/releases/latest">⬇️ Download Latest APK</a>
 </p>
 
-<h3><a href="https://github
+🤝 Let's Connect
+
+I'm open to collaborating on Android, web, and open-source projects. If you have an idea, a bug report, or just want to talk code, feel free to open an issue or reach out through the links above.
+
+<div align="center">
+
+Keep building. Keep exploring. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Blue footer banner" />
+
+</div>
