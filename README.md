@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Project
 
-<h3><a href="https://github.com/mandeep-sabharwal/MyDiary.V2">📓 MyDiary V2</a></h3>
+<h3><a href="https://github.com/mandeep-sabharwal/MyDiary.V2">📓 Pawsie Diary</a></h3>
 
 <p>A completely rewritten version of MyDiary, rebuilt with a new tech stack and a fresh approach to Android development.</p>
 
